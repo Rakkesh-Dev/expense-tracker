@@ -33,6 +33,7 @@ h1 {
   letter-spacing: -0.5px;
 }
 
+
 h2 {
   color: #2d3748;
   margin-bottom: 1rem;
@@ -251,13 +252,6 @@ input:hover {
 
 .type-input:focus{
   border-color: #667eea;
-}
-
-small {
-  color: #718096;
-  font-size: 0.875rem;
-  margin-top: 4px;
-  display: block;
 }
 
 button[type="submit"] {
